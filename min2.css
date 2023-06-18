@@ -1,0 +1,56 @@
+body{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgy71cYpd8g-48piUjZ5kOpaj8SH9waAE_t4eCOnG1urFpBBc8&usqp=CAU") no-repeat;
+    background-size: cover;
+}
+.Contact{
+    height: 600px;
+    text-align: center;
+}
+.text-center{
+    font-size:50px;
+    font-family: 'Gill Sans', 'Gill Sans MT',' Calibri', 'Trebuchet MS', sans-serif;
+}
+.form{
+    width:100%;
+    margin: 25px auto;
+}
+.form-input{
+    align:center;
+    margin: 7px;
+    padding: 7px;
+    justify-content: space-evenly;
+    width:36%;
+    font-size: 18px;
+    border:2px solid grey;
+    border-radius: 6px;
+}
+.btn{
+    padding:2px;
+    color: grey;
+    border: 2px solid grey;
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    font-size: 18px;
+}
+.nav2 {
+    display:block;
+    font-family: 'Monoton';
+    font-size: 25px;
+}
+.logo {
+    float:left;
+    width:100px;
+}
+.nav1 {
+    position: absolute;
+    top:0px;
+    left:0px;
+    width:60%;
+    float:right;
+}
+.tb1 {
+    margin-top:30px;
+}
+.td2 {
+    font-style: italic;
+    font-family:'Acme';
+}
